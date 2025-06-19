@@ -28,3 +28,8 @@ If you would like to get in touch:
 
 - LinkedIn: https://linkedin.com/in/yourusername
 - GitHub: https://github.com/Abdelrahman-Hassany
+
+## Credits
+
+This portfolio template is originally based on the work by [Soumyajit Behera](https://github.com/soumyajit4419/Portfolio).
+
