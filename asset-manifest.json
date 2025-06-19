@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.487d408d.css",
+    "main.js": "/static/js/main.423f5537.js",
+    "static/js/770.074a10a6.chunk.js": "/static/js/770.074a10a6.chunk.js",
+    "static/js/453.ad7768ec.chunk.js": "/static/js/453.ad7768ec.chunk.js",
+    "static/media/logo.png": "/static/media/logo.f84dbdb7dfb2a5299588.png",
+    "static/media/Abdelrahman_Hassany_Django_Developer.pdf": "/static/media/Abdelrahman_Hassany_Django_Developer.8aa33634994fece18fa9.pdf",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/chat-app.png": "/static/media/chat-app.85ac603b95858bba26bf.png",
+    "static/media/rate-limit-api.png": "/static/media/rate-limit-api.ca080c3b5276d6839a1f.png",
+    "static/media/ctf-django-logo.svg": "/static/media/ctf-django-logo.e10a6f98627132ad193f0df04af15b18.svg",
+    "static/media/secure-auth.png": "/static/media/secure-auth.f068e723d64f207132df.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.487d408d.css.map": "/static/css/main.487d408d.css.map",
+    "main.423f5537.js.map": "/static/js/main.423f5537.js.map",
+    "770.074a10a6.chunk.js.map": "/static/js/770.074a10a6.chunk.js.map",
+    "453.ad7768ec.chunk.js.map": "/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.487d408d.css",
+    "static/js/main.423f5537.js"
+  ]
+}
